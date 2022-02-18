@@ -28,8 +28,6 @@ while ( i<number.length)
     i++
 }
 
-
-
 let numbers = [5, 6, 10, 25, 3, 7, 4, 100, 28, 36, 89];
 for ( let i=0; i<numbers.length; i++){
  console.log(numbers[i]);
