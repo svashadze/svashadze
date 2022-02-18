@@ -61,4 +61,7 @@ let newarray=array.reduce(function(accumulator, currentValue) {
    )
    console.log(newarray);
     
-
+8.
+let words = ['Madrid', 'Rome', 'Milan', 'Berlin'];
+let newarray=words.filter (item => item.includes('M') )
+console.log(newarray);
