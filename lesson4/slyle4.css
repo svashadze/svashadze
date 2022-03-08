@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 800px;
+}
+.blue{
+    width:100%;
+    height: 400px;
+    background-color: blue;
+}
+.yellow{
+    width: 100%;
+    height: 400px;
+    background-color: yellow;
+
+}
+.uk{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 150px;
+    height: 23px;
+    border-radius: 7px;
+    background-color: beige;
+    box-sizing: border-box;
+}
+.butt{
+    border-radius: 7px;
+    background-color: beige;
+    box-sizing: border-box;
+}
+li{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+.bt {
+    margin-left: 5px;
+    background-color: blue;
+    color: white;
+    font-size: medium;
+    font-weight: bolder;
+
+}
